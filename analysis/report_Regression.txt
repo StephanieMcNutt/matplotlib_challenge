@@ -1,0 +1,10 @@
+The correlation coefficient between mouse weight 
+and average tumor volume for the Capomulin regimen is 0.842 
+----------------------------------------------------------- 
+slope:0.9544396890241045 
+intercept: 21.552160532685015 
+rvalue (Correlation coefficient): 0.8419363424694718 
+pandas (Correlation coefficient): 0.84 
+stderr: 0.1275435903320134 
+The r-squared is: 0.7088568047708717 
+y = 0.95x + 21.55 
